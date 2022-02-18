@@ -18,6 +18,11 @@ The current reccomended fonts for sitelen pona are:
       ![an image preview of linja nanpa](linjananpa.png)
       
       This is an alternative font, developed by jan Itan (@etbcor#6146), currently cartouches and long pi do not render correctly in it.
+  - [insa pi supa lape](http://devurandom.xyz/tokipona/supalape.html)
+      
+      ![an image preview of insa pi supa lape](insapisupalape.png)
+      
+      This font, by /dev/urandom/ also supports cartouches and long pi.
 
 If you are unsure of which font to pick, I would reccomend Fairfax HD.
 
