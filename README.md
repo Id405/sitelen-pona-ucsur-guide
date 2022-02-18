@@ -59,7 +59,7 @@ I do not own an Android phone, so I cannot give an accurate guide on this sectio
 Now that sitelen pona is rendering properly, we need to be able to type it!
 
 ### Windows
-If you use windows, there is an [Auto Hotkey Script](./sitelen-pona-input.ahk) by jan Itan (@etbcor#6146) for input. Write the toki pona word and then a \` (the letter under escape) to convert it into sitelen pona, you can also write '\[\`', '\_\`' and '\]\`' for cartouches. For this to work, you need to have [Auto Hotkey](https://www.autohotkey.com/) installed.
+If you use windows, there is an [Auto Hotkey Script](./sitelen-pona-input.ahk) by jan Itan (@etbcor#6146) for input. Write the toki pona word and then a \` (the letter under escape) to convert it into sitelen pona, you can also write '\[\`', '\_\`' and '\]\`' for cartouches, as well as '\pii\`' for long pi, and '\_\_\`' to extend long pi. For this to work, you need to have [Auto Hotkey](https://www.autohotkey.com/) installed.
 
 ### macOS
 
