@@ -71,6 +71,8 @@ The only current supported input engine for Linux is ibus, for this to work, you
 
 jan Komi (cominixo#5443) has created an [ibus input table](./tokipona.txt). Copy it to a directory of your choice, and then open a command line in the same directory. Run these commands to install it.
 
+![an image of the ibus input engine in action](ibus.png)
+
 ```bash
 sudo ibus-table-createdb -n /usr/share/ibus-table/tables/tokipona.db -s tokipona.txt
 ibus-daemon -drxR
