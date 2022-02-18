@@ -84,6 +84,10 @@ Two input engines for android exist:
   - [jan Komi's (cominixo#5443)](https://github.com/cominixo/tokiponakeyboard/releases/tag/v0.1-sp)
   - and [kulupu Mimuki's (rats#0976)](./android_keyboard.zip) which can be used with [this app](https://play.google.com/store/apps/details?id=de.humbergsoftware.keyboarddesigner), but it requires a paid addon to import the file.
 
+### Web
+
+If you are on a device which cannot use these input methods for any reason, jan Tala (at#0754) has created a [web based converter](at#0754) from sitelen Lasina to sitelen pona.
+
 # End
 
 This is a really huge step for toki pona, and I am extremely happy to see this happen. If you have created a font, input method, or any other resource that you want added, please create a pull request, issue, or just ping me on discord @8o7wer#4073 (jan Lili lon ma pona pi toki pona) and we can talk!
