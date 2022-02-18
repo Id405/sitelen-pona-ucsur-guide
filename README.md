@@ -50,9 +50,9 @@ Paste this snippet of code into the text box. (No need to worry about security! 
 
 Once you have pasted this code into the Quick CSS box, you can now exit settings, your Discord should be properly set up to render sitelen pona!
 
-### Mobile
+### Android
 
-I do not own an Android phone, so I cannot give an accurate guide on this section (maybe somebody fill this in with a pull request), however jan Mimuki has put together an [excellent video guide](https://cdn.discordapp.com/attachments/882652782509846548/943688987070062612/YouCut_20220217_121644150.mp4) for achieving this with [Aliucord](https://github.com/Aliucord/Aliucord).
+I do not own an Android phone, so I cannot give an accurate guide on this section (maybe somebody fill this in with a pull request), however kulupu Mimuki (rats#0976) has put together an [excellent video guide](https://cdn.discordapp.com/attachments/882652782509846548/943688987070062612/YouCut_20220217_121644150.mp4) for achieving this with [Aliucord](https://github.com/Aliucord/Aliucord).
 
 ## Input
 
@@ -80,7 +80,9 @@ Once you have done this, open the ibus preferences, go to Input Method, click AD
 
 ### Android
 
-jan Mimuki (rats#0976) has created an [Android input engine](https://cdn.discordapp.com/attachments/301380012156911616/943740582709301248/220217_keyboard-1.zip) which can be used with [this app](https://play.google.com/store/apps/details?id=de.humbergsoftware.keyboarddesigner), but it requires a paid addon to import the file.
+Two input engines for android exist:
+  - [jan Komi's (cominixo#5443)](https://github.com/cominixo/tokiponakeyboard/releases/tag/v0.1-sp)
+  - and [kulupu Mimuki's (rats#0976)](https://cdn.discordapp.com/attachments/301380012156911616/943740582709301248/220217_keyboard-1.zip) which can be used with [this app](https://play.google.com/store/apps/details?id=de.humbergsoftware.keyboarddesigner), but it requires a paid addon to import the file.
 
 # End
 
