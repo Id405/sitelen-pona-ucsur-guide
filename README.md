@@ -86,7 +86,7 @@ Two input engines for android exist:
 
 ### Web
 
-If you are on a device which cannot use these input methods for any reason, jan Tala (at#0754) has created a [web based converter](at#0754) from sitelen Lasina to sitelen pona.
+If you are on a device which cannot use these input methods for any reason, jan Tala (at#0754) has created a [web based converter](@at#0754) from sitelen Lasina to sitelen pona.
 
 # End
 
