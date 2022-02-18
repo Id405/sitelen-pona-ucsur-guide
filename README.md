@@ -61,9 +61,9 @@ Now that sitelen pona is rendering properly, we need to be able to type it!
 ### Windows
 If you use windows, there is an [Auto Hotkey Script](https://cdn.discordapp.com/attachments/942836056166924348/943319043706880030/sitelen-pona-input.ahk) by jan Itan (@etbcor#6146) for input. Write the toki pona word and then a \` (the letter under escape) to convert it into sitelen pona, you can also write '\[\`', '\_\`' and '\]\`' for cartouches. For this to work, you need to have [Auto Hotkey](https://www.autohotkey.com/) installed.
 
-### Mac OS
+### macOS
 
-I have no clue how Mac OS works, however jan Tepo (tbodt#7244) has made an [input plugin for it](https://cdn.discordapp.com/attachments/882652782509846548/943356818132959262/sitelen-juniko.inputplugin). Install it somehow, I'm not sure.
+jan Tepo (tbodt#7244) has made an [input plugin for macOS](./sitelen-pona.inputplugin). Install it by double clicking. Then enable it in System Preferences > Keyboard > Input Sources. You'll find it listed under "Chinese, Simplified" for some reason.
 
 ### Linux
 
