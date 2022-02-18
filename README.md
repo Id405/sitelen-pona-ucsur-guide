@@ -13,7 +13,7 @@ The current recomended fonts for sitelen pona are:
       ![an image preview of fairfax hd](fairfaxhd.png)
       
       This is currently the best supported font! It supports cartouches, and long pi. It looks a bit nasa, however it is readable (mostly)
-  - [linja nanpa](./linja-nanpa-1.01.otf)
+  - [linja nanpa](https://github.com/ETBCOR/linja-nanpa)
   
       ![an image preview of linja nanpa](linjananpa.png)
       
