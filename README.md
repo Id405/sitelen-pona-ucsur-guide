@@ -75,7 +75,7 @@ Once you have done this, open the ibus preferences, go to Input Method, click AD
 
 ### Android
 
-jan Mimuki (rats#0976) has created an [Android input engine](https://cdn.discordapp.com/attachments/301380012156911616/943740582709301248/220217_keyboard-1.zip) which can be used with (this app)[https://play.google.com/store/apps/details?id=de.humbergsoftware.keyboarddesigner], but it requires a paid addon to import the file.
+jan Mimuki (rats#0976) has created an [Android input engine](https://cdn.discordapp.com/attachments/301380012156911616/943740582709301248/220217_keyboard-1.zip) which can be used with [this app](https://play.google.com/store/apps/details?id=de.humbergsoftware.keyboarddesigner), but it requires a paid addon to import the file.
 
 # End
 
