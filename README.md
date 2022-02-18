@@ -41,10 +41,10 @@ First go to "User Settings" in Discord, then scroll down to "Themes" and click t
 Paste this snippet of code into the text box. (No need to worry about security! CSS can only change visual aspects of Discord, not steal your login token or act on your behalf)
 ```CSS
 :root {
-    --font-primary: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif,"linja-nanpa","Fairfax HD";
-    --font-display: Ginto,"Helvetica Neue",Helvetica,Arial,sans-serif,"linja-nanpa","Fairfax HD";
-    --font-code: Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace,"linja-nanpa","Fairfax HD";
-    --font-headline: Ginto Nord,Ginto,"Helvetica Neue",Helvetica,Arial,sans-serif,"linja-nanpa","Fairfax HD";
+    --font-primary: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif,"linja-nanpa","Fairfax HD","insa pi supa lape";
+    --font-display: Ginto,"Helvetica Neue",Helvetica,Arial,sans-serif,"linja-nanpa","Fairfax HD","insa pi supa lape";
+    --font-code: Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace,"linja-nanpa","Fairfax HD","insa pi supa lape";
+    --font-headline: Ginto Nord,Ginto,"Helvetica Neue",Helvetica,Arial,sans-serif,"linja-nanpa","Fairfax HD","insa pi supa lape";
 }
 ```
 
