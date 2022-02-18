@@ -6,7 +6,7 @@ Due to the standardization of codepoints in the UCSUR, you can now render sitele
 
 # Fonts
 
-The current reccomended fonts for sitelen pona are:
+The current recomended fonts for sitelen pona are:
 
   - [Fairfax HD](https://www.kreativekorp.com/software/fonts/fairfaxhd.shtml)
   
@@ -24,7 +24,7 @@ The current reccomended fonts for sitelen pona are:
       
       This font, by /dev/urandom/ also supports cartouches and long pi.
 
-If you are unsure of which font to pick, I would reccomend Fairfax HD.
+If you are unsure of which font to pick, I would recomend Fairfax HD.
 
 Once you have installed either of these fonts you are done, in many applications sitelen pona should render correctly, with the exception of websites, as they do not fall back to sitelen pona. This is an issue, because some applications are actually websites, with a notable example being Discord. 
 
