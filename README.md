@@ -79,4 +79,4 @@ jan Mimuki (rats#0976) has created an [Android input engine](https://cdn.discord
 
 # End
 
-This is a really huge step for toki pona, and I am extremely happy to see this happen. If you have created a font, input method, or any other resource that you want added, please create a pull request, issue, or just ping me on discord @8o7wer#4073 and we can talk!
+This is a really huge step for toki pona, and I am extremely happy to see this happen. If you have created a font, input method, or any other resource that you want added, please create a pull request, issue, or just ping me on discord @8o7wer#4073 (jan Lili lon ma pona pi toki pona) and we can talk!
