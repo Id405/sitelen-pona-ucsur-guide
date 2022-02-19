@@ -13,11 +13,12 @@ The current recomended fonts for sitelen pona are:
       ![an image preview of fairfax hd](fairfaxhd.png)
       
       This is currently the best supported font! It supports cartouches, and long pi. It looks a bit nasa, however it is readable (mostly)
-  - [linja nanpa](./linja-nanpa-1.01.otf)
+  - [linja nanpa](https://github.com/ETBCOR/linja-nanpa/releases)
   
       ![an image preview of linja nanpa](linjananpa.png)
       
-      This is an alternative font, developed by jan Itan (@etbcor#6146), currently cartouches and long pi do not render correctly in it.
+      This is an alternative font, developed by jan Itan (@etbcor#6146). Now supports cartouches (using the Unicode combination character), as well as long pi.
+      
   - [insa pi supa lape](http://devurandom.xyz/tokipona/supalape.html)
       
       ![an image preview of insa pi supa lape](insapisupalape.png)
@@ -28,7 +29,7 @@ If you are unsure of which font to pick, I would recomend Fairfax HD.
 
 Once you have installed either of these fonts you are done, in many applications sitelen pona should render correctly, with the exception of websites, as they do not fall back to sitelen pona. This is an issue, because some applications are actually websites, with a notable example being Discord. 
 
-## Discord
+# Discord
 
 Because internally the Discord application relies on electron, it does not fall back to the font you installed when sitelen pona glyphs are present, instead displaying these frustrating little squares. To fix this, sadly the only option is to modify your Discord. Currently, this modification is possible on all Desktop systems, and on Android.
 
