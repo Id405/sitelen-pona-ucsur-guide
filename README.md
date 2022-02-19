@@ -17,14 +17,14 @@ The current recomended fonts for sitelen pona are:
   
       ![an image preview of linja nanpa](linjananpa.png)
       
-      This is an alternative font, developed by jan Itan (@etbcor#6146), currently cartouches and long pi do not render correctly in it.
+      This is an alternative font, developed by jan Itan (@etbcor#6146), cartouches and long pi renders properly.
   - [insa pi supa lape](http://devurandom.xyz/tokipona/supalape.html)
       
       ![an image preview of insa pi supa lape](insapisupalape.png)
       
       This font, by /dev/urandom/ also supports cartouches and long pi.
 
-If you are unsure of which font to pick, I would recomend Fairfax HD.
+If you are unsure of which font to pick, I would recomend linja nanpa.
 
 Once you have installed either of these fonts you are done, in many applications sitelen pona should render correctly, with the exception of websites, as they do not fall back to sitelen pona. This is an issue, because some applications are actually websites, with a notable example being Discord. 
 
