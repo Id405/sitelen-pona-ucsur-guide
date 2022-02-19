@@ -59,17 +59,17 @@ I do not own an Android phone, so I cannot give an accurate guide on this sectio
 Now that sitelen pona is rendering properly, we need to be able to type it!
 
 ### Windows
-If you use windows, there is an [Auto Hotkey Script](./sitelen-pona-input.ahk) by jan Itan (@etbcor#6146) for input. Write the toki pona word and then a \` (the letter under escape) to convert it into sitelen pona, you can also write '\[\`', '\_\`' and '\]\`' for cartouches, as well as '\pii\`' for long pi, and '\_\_\`' to extend long pi. For this to work, you need to have [Auto Hotkey](https://www.autohotkey.com/) installed.
+If you use windows, there is an [Auto Hotkey Script](https://raw.githubusercontent.com/Id405/sitelen-pona-ucsur-guide/main/sitelen-pona-input.ahk) by jan Itan (@etbcor#6146) for input. Write the toki pona word and then a \` (the letter under escape) to convert it into sitelen pona, you can also write '\[\`', '\_\`' and '\]\`' for cartouches, as well as '\pii\`' for long pi, and '\_\_\`' to extend long pi. For this to work, you need to have [Auto Hotkey](https://www.autohotkey.com/) installed.
 
 ### macOS
 
-jan Tepo (tbodt#7244) has made an [input plugin for macOS](./sitelen-pona.inputplugin). Install it by double clicking. Then enable it in System Preferences > Keyboard > Input Sources. You'll find it listed under "Chinese, Simplified" for some reason.
+jan Tepo (tbodt#7244) has made an [input plugin for macOS](https://raw.githubusercontent.com/Id405/sitelen-pona-ucsur-guide/main/sitelen-pona.inputplugin). Install it by double clicking. Then enable it in System Preferences > Keyboard > Input Sources. You'll find it listed under "Chinese, Simplified" for some reason.
 
 ### Linux
 
 The only current supported input engine for Linux is ibus, for this to work, you need both ibus, and ibus-tables installed.
 
-jan Komi (cominixo#5443) has created an [ibus input table](./tokipona.txt). Copy it to a directory of your choice, and then open a command line in the same directory. Run these commands to install it.
+jan Komi (cominixo#5443) has created an [ibus input table](https://raw.githubusercontent.com/Id405/sitelen-pona-ucsur-guide/main/tokipona.txt). Copy it to a directory of your choice, and then open a command line in the same directory. Run these commands to install it.
 
 ![an image of the ibus input engine in action](ibus.png)
 
