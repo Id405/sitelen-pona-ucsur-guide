@@ -54,6 +54,10 @@ Once you have pasted this code into the Quick CSS box, you can now exit settings
 
 I do not own an Android phone, so I cannot give an accurate guide on this section (maybe somebody fill this in with a pull request), however kulupu Mimuki (rats#0976) has put together an [excellent video guide](https://cdn.discordapp.com/attachments/882652782509846548/943688987070062612/YouCut_20220217_121644150.mp4) for achieving this with [Aliucord](https://github.com/Aliucord/Aliucord).
 
+### Browser
+
+If you use a web browser, you can use the stylus plugin to add the css code above. Simply click on the plugin with a discord tab open, and use the "write a style for:" menu. Be sure to no accidentally write it for "this url", as that will make it not work outside of the channel you were looking at.
+
 ## Input
 
 Now that sitelen pona is rendering properly, we need to be able to type it!
