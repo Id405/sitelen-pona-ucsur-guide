@@ -12,7 +12,7 @@ The current recomended fonts for sitelen pona are:
   
       ![an image preview of fairfax hd](fairfaxhd.png)
       
-      This is currently the best supported font! It supports cartouches, combination glyphs, and long glyphs (pi, tawa & lon). It looks a bit nasa, however it is mostly readable, and activly being worked on.
+	This is currently the best supported font! It supports cartouches, combination glyphs, and long glyphs (pi, tawa & lon). It looks a bit nasa, however it is mostly readable, and activly being worked on.
   - [linja nanpa](https://github.com/ETBCOR/linja-nanpa)
   
       ![an image preview of linja nanpa](linjananpa.png)
