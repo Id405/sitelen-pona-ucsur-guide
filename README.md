@@ -17,7 +17,7 @@ The current recomended fonts for sitelen pona are:
   
       ![an image preview of linja nanpa](linjananpa.png)
       
-      This is an alternative font, developed by jan Itan (@etbcor#6146), cartouches and long pi renders properly.
+      This is an alternative font, actively being developed by jan Itan (@etbcor#6146). It is monospace, and supports cartouches, combination glyphs, and long glyphs (pi, tawa & lon). 
   - [insa pi supa lape](http://devurandom.xyz/tokipona/supalape.html)
       
       ![an image preview of insa pi supa lape](insapisupalape.png)
