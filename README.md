@@ -12,7 +12,7 @@ The current recomended fonts for sitelen pona are:
   
       ![an image preview of fairfax hd](fairfaxhd.png)
       
-      This is currently the best supported font! It supports cartouches, and long pi. It looks a bit nasa, however it is readable (mostly)
+      This is currently the best supported font! It supports cartouches, combination glyphs, and long glyphs (pi, tawa & lon). It looks a bit nasa, however it is mostly readable, and activly being worked on.
   - [linja nanpa](https://github.com/ETBCOR/linja-nanpa)
   
       ![an image preview of linja nanpa](linjananpa.png)
@@ -63,7 +63,7 @@ If you use a web browser, you can use the stylus plugin to add the css code abov
 Now that sitelen pona is rendering properly, we need to be able to type it!
 
 ### Windows
-If you use windows, there is an [Auto Hotkey Script](https://raw.githubusercontent.com/Id405/sitelen-pona-ucsur-guide/main/sitelen-pona-input.ahk) (download with ctrl+s) by jan Itan (@etbcor#6146) for input. Write the toki pona word and then a \` (the letter under escape) to convert it into sitelen pona, you can also write '\[\`', '\_\`' and '\]\`' for cartouches, as well as '\pii\`' for long pi, and '\_\_\`' to extend long pi. For this to work, you need to have [Auto Hotkey](https://www.autohotkey.com/) installed.
+If you use windows, there is an [Auto Hotkey Script](https://raw.githubusercontent.com/ETBCOR/linja-nanpa/main/ahk-script/sitelen-pona-input-2.0.ahk) (download with ctrl+s) by jan Itan (@etbcor#6146) for input. Write the toki pona word and then a \` (the letter under escape) to convert it into sitelen pona. You can also write '\[\`' and '\]\`' for cartouches, as well as '\(\`' and '\)\`' for long glyphs. For this to work, you need to have [Auto Hotkey](https://www.autohotkey.com/) installed.
 
 ### macOS
 
