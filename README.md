@@ -64,7 +64,8 @@ If you use a web browser, you can use the [stylus extension](https://github.com/
 Now that sitelen pona is rendering properly, we need to be able to type it!
 
 ### Windows
-If you use windows, there is an [Auto Hotkey Script](https://raw.githubusercontent.com/ETBCOR/linja-nanpa/main/ahk-script/sitelen-pona-input-2.0.ahk) (download with ctrl+s) by jan Itan (@etbcor#6146) for input. Write the toki pona word and then a \` (the letter under escape) to convert it into sitelen pona. You can also write '\[\`' and '\]\`' for cartouches, as well as '\(\`' and '\)\`' for long glyphs. There is also a ["small" version of the script](https://raw.githubusercontent.com/ETBCOR/linja-nanpa/main/ahk-script/stl-pon-input-2.0.ahk) that uses 3 letter codes for each word instead of typing the whole word. For any of this to work, you need to have [Auto Hotkey](https://www.autohotkey.com/) installed.
+If you use windows, there is an [Auto Hotkey Script](https://github.com/ETBCOR/nasin-nanpa/releases/download/n2.5.1/sitelen-pona-3.0.ahk) (download with ctrl+s) by jan Itan (@etbcor#6146) for input. Write the toki pona word and then a \` (the letter under escape) to convert it into sitelen pona. You can also write '\[\`' and '\]\`' for cartouches, as well as '\(\`' and '\)\`' for long glyphs. There is also a ["small" version of the script](https://github.com/ETBCOR/nasin-nanpa/releases/download/n2.5.1/stl-pon-3.0.ahk) that uses 3 letter codes for each word instead of typing the whole word. For any of this to work, you need to have [Auto Hotkey](https://www.autohotkey.com/) installed.
+Other features of the script are explained near the bottom of [nasin-nanpa's releases page](https://github.com/ETBCOR/nasin-nanpa/releases/tag/n2.5.1).
 
 ### macOS
 
