@@ -12,21 +12,22 @@ The current recomended fonts for sitelen pona are:
   
       ![an image preview of fairfax hd](fairfaxhd.png)
       
-	This font supports cartouches, and long pi. It looks a bit nasa, however it is mostly readable.
-  - [linja nanpa](https://github.com/ETBCOR/linja-nanpa)
+	This font supports the 2022-05-20 version of UCSUR. It looks a bit nasa, however it is mostly readable.
+  - [nasin nanpa](https://github.com/ETBCOR/linja-nanpa)
   
       ![an image preview of linja nanpa](linjananpa.png)
       
-      This is an alternative font, actively being developed by jan Itan (@etbcor#6146). It is monospace, and supports cartouches, combination glyphs, and long glyphs (pi, tawa & lon). 
+      This is an alternative font, actively being developed by jan Itan (@etbcor#6146). It is monospace, and supports cartouches, combination glyphs, and long glyphs (pi, tawa & lon). This font supports the 
+      2022-05-20 version of UCSUR.
   - [insa pi supa lape](http://devurandom.xyz/tokipona/supalape.html)
       
       ![an image preview of insa pi supa lape](insapisupalape.png)
       
-      This font, by /dev/urandom/ also supports cartouches and long pi.
+      This font by /dev/urandom/ supports an outdated version of UCSUR (2022-01-31).
 
 If you are unsure of which font to pick, I would recomend linja nanpa.
 
-Once you have installed either of these fonts you are done, in many applications sitelen pona should render correctly, with the exception of websites, as they do not fall back to sitelen pona. This is an issue, because some applications are actually websites, with a notable example being Discord. 
+Once you have installed any of these fonts you are done, in many applications sitelen pona should render correctly, with the exception of websites, as they do not fall back to sitelen pona. This is an issue, because some applications are actually websites, with a notable example being Discord. 
 
 ## Discord
 
@@ -67,7 +68,7 @@ If you use windows, there is an [Auto Hotkey Script](https://raw.githubuserconte
 
 ### macOS
 
-jan Tepo (tbodt#7244) has made an [input plugin for macOS](https://raw.githubusercontent.com/Id405/sitelen-pona-ucsur-guide/main/sitelen-pona.inputplugin) (download with ctrl+s). Install it by double clicking. Then enable it in System Preferences > Keyboard > Input Sources. You'll find it listed under "Chinese, Simplified" for some reason.
+jan Tepo (tbodt#7244) has made an [input plugin for macOS](https://raw.githubusercontent.com/Id405/sitelen-pona-ucsur-guide/main/sitelen-pona.inputplugin) with modifications by jan Semu (rhythm heaven monkey#9052) to support the 2022-05-20 version of UCSUR (download with ctrl+s). Install it by double clicking. Then enable it in System Preferences > Keyboard > Input Sources. You'll find it listed under "Chinese, Simplified" for some reason.
 
 ### Linux
 
