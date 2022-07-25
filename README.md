@@ -15,7 +15,7 @@ The current recomended fonts for sitelen pona are:
 	This font supports the 2022-05-20 version of UCSUR. It looks a bit nasa, however it is mostly readable.
   - [nasin nanpa](https://github.com/ETBCOR/linja-nanpa)
   
-      ![an image preview of linja nanpa](linjananpa.png)
+      ![an image preview of nasin nanpa](linjananpa.png)
       
       This is an alternative font, actively being developed by jan Itan (@etbcor#6146). It is monospace, and supports cartouches, combination glyphs, and long glyphs (pi, tawa & lon). This font supports the 
       2022-05-20 version of UCSUR.
@@ -42,10 +42,10 @@ First go to "User Settings" in Discord, then scroll down to "Themes" and click t
 Paste this snippet of code into the text box. (No need to worry about security! CSS can only change visual aspects of Discord, not steal your login token or act on your behalf)
 ```CSS
 :root {
-    --font-primary: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif,"linja-nanpa","Fairfax HD","insa pi supa lape";
-    --font-display: Ginto,"Helvetica Neue",Helvetica,Arial,sans-serif,"linja-nanpa","Fairfax HD","insa pi supa lape";
-    --font-code: Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace,"linja-nanpa","Fairfax HD","insa pi supa lape";
-    --font-headline: Ginto Nord,Ginto,"Helvetica Neue",Helvetica,Arial,sans-serif,"linja-nanpa","Fairfax HD","insa pi supa lape";
+    --font-primary: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif,"nasin-nanpa","Fairfax HD","insa pi supa lape";
+    --font-display: Ginto,"Helvetica Neue",Helvetica,Arial,sans-serif,"nasin-nanpa","Fairfax HD","insa pi supa lape";
+    --font-code: Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace,"nasin-nanpa","Fairfax HD","insa pi supa lape";
+    --font-headline: Ginto Nord,Ginto,"Helvetica Neue",Helvetica,Arial,sans-serif,"nasin-nanpa","Fairfax HD","insa pi supa lape";
 }
 ```
 
