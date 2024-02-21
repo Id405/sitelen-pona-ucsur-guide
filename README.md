@@ -13,9 +13,9 @@ The current recomended fonts for sitelen pona are:
       ![an image preview of fairfax hd](fairfaxhd.png)
       
 	This font supports the 2022-05-20 version of UCSUR. It looks a bit nasa, however it is mostly readable.
-  - [nasin nanpa](https://github.com/ETBCOR/linja-nanpa)
+  - [nasin nanpa](https://github.com/ETBCOR/nasin-nanpa)
   
-      ![an image preview of linja nanpa](linjananpa.png)
+      ![an image preview of nasin nanpa](linjananpa.png)
       
       This is an alternative font, actively being developed by jan Itan (@etbcor#6146). It is monospace, and supports cartouches, combination glyphs, and long glyphs (pi, tawa & lon). This font supports the 
       2022-05-20 version of UCSUR.
@@ -25,7 +25,7 @@ The current recomended fonts for sitelen pona are:
       
       This font by /dev/urandom/ supports an outdated version of UCSUR (2022-01-31).
 
-If you are unsure of which font to pick, I would recomend linja nanpa.
+If you are unsure of which font to pick, I would recomend nasin nanpa.
 
 Once you have installed any of these fonts you are done, in many applications sitelen pona should render correctly, with the exception of websites, as they do not fall back to sitelen pona. This is an issue, because some applications are actually websites, with a notable example being Discord. 
 
@@ -35,17 +35,17 @@ Because internally the Discord application relies on electron, it does not fall 
 
 ### Desktop
 
-To patch your Discord to correctly render sitelen pona on desktop, we will use the [Powercord client modification](https://powercord.dev/). Start by following the installation guide on their website to install it. After installing Powercord we need to add a CSS snippet, this is a small snippet of code that tells Powercord to use Fairfax HD or linja nanpa when sitelen pona is present.
+To patch your Discord to correctly render sitelen pona on desktop, we will use the [Powercord client modification](https://powercord.dev/). Start by following the installation guide on their website to install it. After installing Powercord we need to add a CSS snippet, this is a small snippet of code that tells Powercord to use Fairfax HD or nasin nanpa when sitelen pona is present.
 
 First go to "User Settings" in Discord, then scroll down to "Themes" and click the "Quick CSS" tab.
 
 Paste this snippet of code into the text box. (No need to worry about security! CSS can only change visual aspects of Discord, not steal your login token or act on your behalf)
 ```CSS
 :root {
-    --font-primary: 'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif, "linja-nanpa", "Fairfax HD", "insa pi supa lape";
-    --font-display: 'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif, "linja-nanpa", "Fairfax HD", "insa pi supa lape";
-    --font-code: Consolas, 'Andale Mono WT', 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Liberation Mono', 'Nimbus Mono L', Monaco, 'Courier New', Courier, monospace, "linja-nanpa", "Fairfax HD", "insa pi supa lape";
-    --font-headline: 'ABC Ginto Nord', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif, "linja-nanpa", "Fairfax HD", "insa pi supa lape";
+    --font-primary: 'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif, "nasin-nanpa", "Fairfax HD", "insa pi supa lape";
+    --font-display: 'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif, "nasin-nanpa", "Fairfax HD", "insa pi supa lape";
+    --font-code: Consolas, 'Andale Mono WT', 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Liberation Mono', 'Nimbus Mono L', Monaco, 'Courier New', Courier, monospace, "nasin-nanpa", "Fairfax HD", "insa pi supa lape";
+    --font-headline: 'ABC Ginto Nord', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif, "nasin-nanpa", "Fairfax HD", "insa pi supa lape";
 }
 ```
 
