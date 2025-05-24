@@ -1,6 +1,8 @@
-**Archived**
+# **Archived**
 
 This guide is severly out of date, if you are looking for information on how to set up UCSUR on your device [this guide](https://github.com/neroist/sitelen-pona-ucsur-guide/blob/main/README.md) is your best bet. If you are looking to improve the information available, please contribute to the [sona pona](https://sona.pona.la/wiki/Under-ConScript_Unicode_Registry) page.
+
+---
 
 # sitelen pona UCSUR guide!!!
 o sitelen e sitelen pona lon ilo mute a!
